@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working in ... Selangor, Malaysia
 - 🌱 I’m currently learning ... Infrastructure & Systems Automation
-- 👯 I’m looking to collaborate on ... Open-source IaC projects, Ansible playbooks, and cloud automation tools
+- 👯 I’m looking to collaborate on ... Open-source IaC projects, Ansible playbooks, and CI/CD
 - 🤔 I’m looking for help with ... Kubernetes orchestration
 - 💬 Ask me about ... Linux administration, cloud infrastructure
 - 📫 How to reach me: ...
