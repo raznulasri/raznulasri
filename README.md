@@ -1,12 +1,12 @@
 ## Hi there 👋
-- 🔭 I’m currently working in ... Selangor
-- 🌱 I’m currently learning ... Automation Scipts
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working in ... Selangor, Malaysia
+- 🌱 I’m currently learning ... Infrastructure & Systems Automation
+- 👯 I’m looking to collaborate on ... Open-source IaC projects, Ansible playbooks, and cloud automation tools
+- 🤔 I’m looking for help with ... Kubernetes orchestration
+- 💬 Ask me about ... Linux administration, cloud infrastructure
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... Kacak
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... Kacak 😎
 <!--
 **raznulasri/raznulasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
