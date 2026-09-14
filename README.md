@@ -6,7 +6,7 @@
 - 💬 Ask me about ... Issue and I will Script it
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Kacak 😎
+- ⚡ Fun fact: ... Like playing Badminton, Basketball and Volleyball 😎🏀
 <!--
 **raznulasri/raznulasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
