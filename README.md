@@ -1,7 +1,10 @@
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-000000?style=for-the-badge&logo=windows&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white)
 
 
 ## Hi there 👋
