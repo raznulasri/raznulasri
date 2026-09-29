@@ -17,7 +17,7 @@ on-going
 
 
 ## Hi there 👋
-- 🌱 I’m currently learning ... Cloud Infrastructure & Systems Automation
+- 🌱 I’m currently ... Devops, Cloud Infrastructure & Systems Automation
 - 👯 I’m looking to collaborate on ... Open-source IaC projects, Ansible playbooks, and CI/CD
 - 🤔 I’m looking for help with ... Kubernetes orchestration
 - ⚡ Fun fact: ... Like playing Badminton, Basketball and Volleyball 😎🏀
