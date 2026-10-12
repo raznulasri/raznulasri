@@ -17,7 +17,7 @@ on-going
 
 
 ## Hi there 👋
-- 🌱 I’m looking to ... Devops, Cloud Infrastructure & Systems Automation
+- 🌱 I’m looking a ... Devops, Cloud Infrastructure & Systems Automation
 - 🤔 I’m looking for help with ... Kubernetes k8s
 - ⚡ Fun fact: ... Like playing Badminton, Basketball and Volleyball 😎🏀
 <!--
