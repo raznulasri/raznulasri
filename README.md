@@ -17,7 +17,7 @@ on-going
 
 
 ## Hi there 👋
-- 🌱 I’m create CI/CD to manage my container to deploy to multi web platform (Booking, Agoda, FB, Tiktok, Instagram and more) in one workflow
+- 🌱 I’m creating a CI/CD to manage my container to deploy to multi web platform (Booking, Agoda, FB, Tiktok, Instagram and others) in one workflow
 - 🤔 I’m looking for help with Kubernetes k8s if my container facing a lot of traffic
 - ⚡ Fun fact: ... Like playing Badminton, Basketball and Volleyball 😎🏀
 <!--
