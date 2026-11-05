@@ -8,7 +8,6 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenCode AI](https://img.shields.io/badge/OpenCode%20AI-1E88E5?style=for-the-badge&logo=codeium&logoColor=white)
 [![OpenCode AI](https://img.shields.io/badge/OpenCode%20AI-00A896?style=for-the-badge&logo=codeium&logoColor=white)](https://opencode.ai)
 
 on-going
