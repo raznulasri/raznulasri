@@ -20,6 +20,7 @@ on-going
 ## Hi there 👋
 - 🌱 I’m creating a CI/CD pipeline to manage my container deployments across multiple platforms (like Booking, Agoda, Facebook, TikTok, Instagram, and others).
 - 🤔 I’m looking for help with Kubernetes k8s if my container is facing high traffic
+- 💻 Just some tools and scripts built from my past IT experience.
 - ⚡ Fun fact: ... Like playing Badminton, Basketball and Volleyball 😎🏀
 <!--
 **raznulasri/raznulasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
